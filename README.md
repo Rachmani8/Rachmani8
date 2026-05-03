@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @Rachmani8
-- 👀 I’m interested in Python, MySQL
-- 🌱 I’m currently learning Industrial Engineering 
-- 💞️ I’m looking to collaborate on Data analysis Projects using such as, MySQL and Python 3.8
-- 📫 How to reach me: Email - Rachmani.nir@gmail.com
+👋 Hi, I'm Nir (@Rachmani8)
+Industrial Engineer (B.Sc) | Data & Automation
 
-<!---
-Rachmani8/Rachmani8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Focus: Information Systems, Business Analytics, and process optimization.
+
+Tools: Python (Data processing & simulations), MySQL, and Statistical Analysis.
+
+Current Projects: Developing Python scripts for automation and data projects.
+
+Open to: Collaboration on Data Analysis and Industrial Planning projects.
+
+📫 Contact: Rachmani.nir@gmail.com
+📍 Location: Ramat Gan, Israel
